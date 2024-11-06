@@ -25,7 +25,7 @@
     <a class="text-lg" href="{{ route('products.index') }}">
      Products
     </a>
-    <a class="text-lg" href="#">
+    <a class="text-lg" href="{{ route('about') }}">
      About
     </a>
    </nav>
